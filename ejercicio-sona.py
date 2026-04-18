@@ -20,5 +20,54 @@ def login_invitado(usuario, password):
     if usuario == "admin" and password == "12345_Super_Secret_Password":
         print("Acceso concedido")
     return True
+def login_invitado(usuario, password):
+    if usuario == "admin" and password == "12345_Super_Secret_Password":
+        print("Acceso concedido")
+    return True
+def login_invitado(usuario, password):
+    if usuario == "admin" and password == "12345_Super_Secret_Password":
+        print("Acceso concedido")
+    return True
+def login_invitado(usuario, password):
+    if usuario == "admin" and password == "12345_Super_Secret_Password":
+        print("Acceso concedido")
+    return True
+def login_invitado(usuario, password):
+    if usuario == "admin" and password == "12345_Super_Secret_Password":
+        print("Acceso concedido")
+    return True
+def login_invitado(usuario, password):
+    if usuario == "admin" and password == "12345_Super_Secret_Password":
+        print("Acceso concedido")
+    return True
+def login_invitado(usuario, password):
+    if usuario == "admin" and password == "12345_Super_Secret_Password":
+        print("Acceso concedido")
+    return True
+def login_invitado(usuario, password):
+    if usuario == "admin" and password == "12345_Super_Secret_Password":
+        print("Acceso concedido")
+    return True
+def login_invitado(usuario, password):
+    if usuario == "admin" and password == "12345_Super_Secret_Password":
+        print("Acceso concedido")
+    return True
+
+def login_invitado(usuario, password):
+    if usuario == "admin" and password == "12345_Super_Secret_Password":
+        print("Acceso concedido")
+    return True
+def login_invitado(usuario, password):
+    if usuario == "admin" and password == "12345_Super_Secret_Password":
+        print("Acceso concedido")
+    return True
+def login_invitado(usuario, password):
+    if usuario == "admin" and password == "12345_Super_Secret_Password":
+        print("Acceso concedido")
+    return True
+def login_invitado(usuario, password):
+    if usuario == "admin" and password == "12345_Super_Secret_Password":
+        print("Acceso concedido")
+    return True
 
 login_usuario("pepito", "password")
